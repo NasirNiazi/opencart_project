@@ -1,0 +1,393 @@
+17:08:50.800 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:08:50.869 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:08:55.511 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:08:55.513 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:08:58.522 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:08:58.553 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:08:58.555 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:33:58.172 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:33:58.237 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:34:00.035 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:34:00.037 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:34:01.585 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:34:01.611 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:34:01.613 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:35:35.946 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:35:36.214 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:35:40.417 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:35:40.419 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:35:43.216 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:35:43.233 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:35:43.235 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:36:17.426 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:36:17.495 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:36:21.651 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:36:21.653 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:36:25.247 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:36:25.275 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:36:25.277 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:42:36.488 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:42:36.634 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:42:36.684 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:42:36.771 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:42:37.402 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:42:37.406 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:42:37.461 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:42:37.462 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:42:38.551 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:42:38.581 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:42:38.583 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:42:38.709 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:42:38.755 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:42:38.755 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:43:49.174 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:43:49.321 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:43:49.503 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:43:49.669 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:43:50.358 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:43:50.361 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:43:50.677 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:43:50.678 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:43:51.881 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:43:51.931 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:43:51.936 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:43:52.014 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:43:52.059 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:43:52.059 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:43:54.919 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:43:55.181 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:43:56.313 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:43:56.313 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:43:57.399 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:43:57.419 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:43:57.419 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+17:58:55.087 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+17:58:55.172 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+17:58:55.862 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+17:58:55.864 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+17:58:56.904 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+17:58:56.936 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+17:58:56.938 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+01:38:08.592 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+01:38:08.671 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+01:38:10.916 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+01:38:10.919 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+01:38:12.065 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+01:38:12.099 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+01:38:12.101 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+13:41:34.843 [main] INFO  testCases.TC_001AccountRegisterPractice - Strat the test 
+13:45:47.455 [main] INFO  testCases.TC_001AccountRegisterPractice - Strat the test 
+13:52:16.298 [main] INFO  testCases.TC_001AccountRegisterPractice - Strat the test 
+13:58:04.102 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+13:58:04.246 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+13:58:04.454 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+13:58:04.546 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+13:58:08.104 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+13:58:08.107 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+13:58:09.227 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+13:58:09.263 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+13:58:09.266 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+13:58:09.444 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+13:58:09.444 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+13:58:10.257 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+13:58:10.306 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+13:58:11.022 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+13:58:11.038 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+13:58:11.038 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+13:58:11.436 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+13:58:11.437 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+13:58:12.401 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+13:58:12.426 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+13:58:12.426 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+15:37:07.152 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:37:07.230 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:37:07.838 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:37:07.840 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+15:37:08.840 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:37:08.872 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:37:08.874 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+15:42:22.443 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:42:22.522 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:42:23.173 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:42:23.175 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+15:42:24.158 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:42:24.188 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:42:24.190 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+15:49:03.020 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:49:03.096 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:49:03.792 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:49:03.794 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+15:49:04.845 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:49:04.875 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:49:04.877 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+15:52:25.744 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:52:25.816 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:52:26.607 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:52:26.608 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+15:52:27.585 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:52:27.614 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:52:27.616 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+15:55:35.091 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:55:35.154 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:55:36.516 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:55:36.517 [main] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+15:55:37.192 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:55:47.253 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+22:34:22.684 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:34:22.684 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:34:22.684 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:34:22.981 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:34:23.197 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:34:23.413 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:34:26.483 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:34:26.486 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+22:34:26.535 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:34:26.807 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:34:26.807 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - ProvideCustomer Data
+22:34:27.498 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:34:27.498 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:36:06.591 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:36:06.591 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:36:06.888 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:36:07.101 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:36:17.112 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:36:27.134 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:41:01.822 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Aplication logs!!!!!!!!!!!!!!!!!!!!
+22:41:01.828 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:41:07.759 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Aplication logs!!!!!!!!!!!!!!!!!!!!
+22:41:07.759 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:41:07.760 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Aplication logs!!!!!!!!!!!!!!!!!!!!
+22:41:07.760 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:41:08.246 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:41:08.456 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:41:14.104 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:41:18.496 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:41:28.558 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:46:15.478 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:46:15.673 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:46:17.169 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:46:17.176 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:46:17.227 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:49:01.274 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:49:01.274 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:49:01.274 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:49:01.554 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:49:01.762 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:49:01.969 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:49:04.354 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:49:04.355 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:49:04.408 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:49:04.778 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:49:04.779 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:49:05.469 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:49:05.469 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistrationRunner - Test Failed
+22:54:42.723 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:54:42.814 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:54:43.677 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:54:43.680 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:54:44.750 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+22:54:44.785 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+22:54:44.788 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+22:55:47.433 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:55:47.518 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:55:48.297 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:55:48.299 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:55:49.299 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+22:55:49.332 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+22:55:49.335 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+22:56:46.981 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:56:47.069 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:56:47.746 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:56:47.748 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:56:48.294 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+22:56:58.323 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+22:58:11.392 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+22:58:11.471 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+22:58:12.417 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+22:58:12.419 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+22:58:13.397 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+22:58:13.431 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+22:58:13.433 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+23:09:18.982 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+23:09:19.047 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+23:09:19.730 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+23:09:19.733 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+23:09:20.808 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+23:09:20.839 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+23:09:20.840 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+23:09:25.593 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+23:09:25.646 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+23:09:26.261 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+23:09:26.261 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+23:09:27.198 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+23:09:27.229 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+23:09:27.229 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+23:10:07.862 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+23:10:07.933 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+23:10:08.596 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+23:10:08.598 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+23:10:09.579 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+23:10:09.607 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+23:10:09.609 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+23:10:14.914 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+23:10:14.963 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+23:10:15.631 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+23:10:15.632 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+23:10:16.606 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+23:10:16.635 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+23:10:16.635 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+23:10:23.165 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+23:10:23.419 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+23:10:24.131 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+23:10:24.131 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+23:10:25.244 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+23:10:25.256 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+23:10:25.256 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+00:09:53.899 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+00:09:53.987 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+00:09:54.548 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+00:09:54.550 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+00:09:55.512 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+00:09:55.540 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+00:09:55.542 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+13:34:05.450 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+13:34:05.583 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+13:34:06.288 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+13:34:06.290 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+13:34:07.397 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+13:34:07.430 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+13:34:07.432 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test
+13:40:08.210 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng 
+13:40:09.183 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing 
+00:03:38.519 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng 
+00:03:39.543 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing 
+02:58:40.239 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+02:58:51.166 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+02:58:51.174 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+02:59:01.870 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+02:59:01.872 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+02:59:12.665 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+02:59:12.667 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+02:59:23.402 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+02:59:23.404 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+02:59:24.645 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+15:10:53.170 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:10:53.254 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:10:53.970 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:10:53.972 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:10:55.056 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:10:55.086 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:10:55.087 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:10:57.700 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:10:58.635 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:11:48.741 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:11:48.814 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:11:49.473 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:11:49.475 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:11:50.459 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:11:50.488 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:11:50.489 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:11:53.119 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:11:54.108 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:18:34.722 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:18:34.822 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:18:35.497 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:18:35.499 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:18:36.549 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:18:36.578 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:18:36.580 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:18:39.158 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:18:40.098 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:18:45.686 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:18:45.743 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:18:46.422 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:18:46.423 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:18:47.428 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:18:47.458 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:18:47.458 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:18:53.325 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:18:54.449 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:19:04.159 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:19:04.425 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:19:05.248 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:19:05.248 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:19:06.405 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:19:06.419 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:19:06.419 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:19:14.268 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:19:15.213 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:40:32.579 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:40:32.655 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:40:36.578 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:40:36.580 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:40:38.529 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:40:38.568 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:40:38.570 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:40:51.740 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:40:54.889 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:41:08.059 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:41:08.124 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:41:11.628 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:41:11.630 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:41:13.174 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:41:13.205 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:41:13.206 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:41:42.498 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:41:49.387 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+15:42:24.045 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+15:42:24.317 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+15:42:31.536 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+15:42:31.537 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+15:42:33.447 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+15:42:33.463 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+15:42:33.463 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+15:42:50.961 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+15:42:52.064 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+01:11:22.519 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+01:11:33.764 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+01:11:33.778 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+01:11:44.624 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+01:11:44.626 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+01:11:55.487 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+01:11:55.488 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+01:12:06.366 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+01:12:06.367 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+01:12:07.703 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+14:23:46.350 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+14:23:46.458 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+14:23:47.114 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+14:23:47.116 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+14:23:48.132 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+14:23:48.168 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+14:23:48.170 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+14:23:50.884 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+14:23:51.887 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+14:23:55.874 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+14:24:06.769 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+14:24:06.770 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+14:24:17.622 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+14:24:17.623 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+14:24:28.560 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+14:24:28.560 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+14:24:39.959 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+14:24:39.960 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+14:24:42.779 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+16:02:21.275 [main] INFO  testCases.TC_001AccountRegistrationRunner - Starting tc_AccountRegistration Test
+16:02:21.349 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on My Account link
+16:02:24.609 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Register link
+16:02:24.611 [main] INFO  testCases.TC_001AccountRegistrationRunner - Provide Customer Data
+16:02:29.339 [main] INFO  testCases.TC_001AccountRegistrationRunner - Click on Continue!!!!!!
+16:02:29.366 [main] INFO  testCases.TC_001AccountRegistrationRunner - Validatu=ing Expected Massage!
+16:02:29.367 [main] INFO  testCases.TC_001AccountRegistrationRunner - Fanished logging test TC_001AccountRegistrationRunner
+16:02:41.031 [main] INFO  testCases.TC_002_AccountRegistrationRunner - trat Testitng TC_002_AccountRegistrationRunner 
+16:02:43.252 [main] INFO  testCases.TC_002_AccountRegistrationRunner - Fanished Testing TC_002_AccountRegistrationRunner 
+16:03:10.315 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+16:03:21.155 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+16:03:21.156 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+16:03:31.992 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+16:03:31.992 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+16:03:42.915 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+16:03:42.916 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+16:03:56.600 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest
+16:03:56.601 [main] INFO  testCases.TC_003_DataProvider - ************** Start the tset*************
+16:03:58.015 [main] INFO  testCases.TC_003_DataProvider -  Finished TC_003_LoginDataDrivenTest

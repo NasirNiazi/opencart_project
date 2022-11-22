@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-15T15:40:21 PST" name="openCartSuite" finished-at="2022-11-15T15:42:52 PST" duration-ms="150418">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@2a7f1f10]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@54c5a2ff]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@196a42c3]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@4c60d6e9]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@7f485fda]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@28261e8e]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@2a7f1f10]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@196a42c3]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+        <method signature="TC_001AccountRegistrationRunner.test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@7f485fda]" name="test_account_registration" class="testCases.TC_001AccountRegistrationRunner"/>
+      </group> <!-- Regression -->
+      <group name="sanity">
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@54c5a2ff]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@4c60d6e9]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+        <method signature="TC_002_AccountRegistrationRunner.tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@28261e8e]" name="tc_002_Login" class="testCases.TC_002_AccountRegistrationRunner"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-11-15T15:40:21 PST" name="OpenCartTest" finished-at="2022-11-15T15:40:54 PST" duration-ms="33242">
+      <class name="testCases.TC_002_AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@54c5a2ff]" started-at="2022-11-15T15:40:38 PST" name="setup" finished-at="2022-11-15T15:40:51 PST" duration-ms="13162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@54c5a2ff]" started-at="2022-11-15T15:40:51 PST" name="tc_002_Login" finished-at="2022-11-15T15:40:54 PST" duration-ms="3149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Login -->
+      </class> <!-- testCases.TC_002_AccountRegistrationRunner -->
+      <class name="testCases.TC_001AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationRunner@2a7f1f10]" started-at="2022-11-15T15:40:21 PST" name="setup" finished-at="2022-11-15T15:40:32 PST" duration-ms="10884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@2a7f1f10]" started-at="2022-11-15T15:40:32 PST" name="test_account_registration" finished-at="2022-11-15T15:40:38 PST" duration-ms="5999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_registration -->
+      </class> <!-- testCases.TC_001AccountRegistrationRunner -->
+    </test> <!-- OpenCartTest -->
+    <test started-at="2022-11-15T15:40:54 PST" name="edgeTest" finished-at="2022-11-15T15:41:49 PST" duration-ms="54475">
+      <class name="testCases.TC_002_AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@4c60d6e9]" started-at="2022-11-15T15:41:13 PST" name="setup" finished-at="2022-11-15T15:41:42 PST" duration-ms="29289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@4c60d6e9]" started-at="2022-11-15T15:41:42 PST" name="tc_002_Login" finished-at="2022-11-15T15:41:49 PST" duration-ms="6890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Login -->
+      </class> <!-- testCases.TC_002_AccountRegistrationRunner -->
+      <class name="testCases.TC_001AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationRunner@196a42c3]" started-at="2022-11-15T15:40:54 PST" name="setup" finished-at="2022-11-15T15:41:08 PST" duration-ms="13143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@196a42c3]" started-at="2022-11-15T15:41:08 PST" name="test_account_registration" finished-at="2022-11-15T15:41:13 PST" duration-ms="5148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_registration -->
+      </class> <!-- testCases.TC_001AccountRegistrationRunner -->
+    </test> <!-- edgeTest -->
+    <test started-at="2022-11-15T15:41:49 PST" name="firefoxTest" finished-at="2022-11-15T15:42:52 PST" duration-ms="62673">
+      <class name="testCases.TC_002_AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@28261e8e]" started-at="2022-11-15T15:42:33 PST" name="setup" finished-at="2022-11-15T15:42:50 PST" duration-ms="17494" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_002_Login()[pri:0, instance:testCases.TC_002_AccountRegistrationRunner@28261e8e]" started-at="2022-11-15T15:42:50 PST" name="tc_002_Login" finished-at="2022-11-15T15:42:52 PST" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Login -->
+      </class> <!-- testCases.TC_002_AccountRegistrationRunner -->
+      <class name="testCases.TC_001AccountRegistrationRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationRunner@7f485fda]" started-at="2022-11-15T15:41:49 PST" name="setup" finished-at="2022-11-15T15:42:24 PST" duration-ms="34649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001AccountRegistrationRunner@7f485fda]" started-at="2022-11-15T15:42:24 PST" name="test_account_registration" finished-at="2022-11-15T15:42:33 PST" duration-ms="9420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_registration -->
+      </class> <!-- testCases.TC_001AccountRegistrationRunner -->
+    </test> <!-- firefoxTest -->
+  </suite> <!-- openCartSuite -->
+</testng-results>
